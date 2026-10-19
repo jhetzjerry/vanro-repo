@@ -3,12 +3,6 @@
 		"nameAddress": "0x015DB2B8",
 		"hpAddress": "0x015D8668",
 		"Description":"VanRO Global",
-		"name": "VanRO"
-	},
-	{
-		"nameAddress": "0x014781F8",
-		"hpAddress": "0x014757AC",
-		"Description":"VanRO Global",
 		"name": "client"
 	}
 ]
